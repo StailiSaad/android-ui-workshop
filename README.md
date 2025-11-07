@@ -21,10 +21,10 @@
 ![Contact](screenshots/contact.png)
 
 ## 💡 Compétences Acquises
-- Utilisation avancée de **LinearLayout** et **ConstraintLayout**
-- Gestion des **Widgets** (TextView, EditText, Button, RadioGroup)
-- Manipulation d’événements et fonctions en **Kotlin**
-- Gestion de version avec **Git & GitHub** 
+- Utilisation avancée de **LinearLayout** et **ConstraintLayout**.
+- Gestion des **Widgets** (TextView, EditText, Button, RadioGroup).
+- Manipulation d’événements et fonctions en **Kotlin**.
+- Gestion de version avec **Git & GitHub** .
 
 ## 🚀 Lancement du projet
-Ouvrir avec **Android Studio** → **Run ►**
+Ouvrir avec **Android Studio** → **Run ►**.
