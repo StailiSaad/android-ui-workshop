@@ -1,7 +1,7 @@
 # Atelier Android – Interfaces Utilisateur
 
 ## 👤 Étudiant
-- **Nom :** Votre Nom
+- **Nom :** Staili Saad
 - **Étude :** ISTA NTIC SAFI
 - **Année :** 2024/2025
 
@@ -24,7 +24,7 @@
 - Utilisation avancée de **LinearLayout** et **ConstraintLayout**
 - Gestion des **Widgets** (TextView, EditText, Button, RadioGroup)
 - Manipulation d’événements et fonctions en **Kotlin**
-- Gestion de version avec **Git & GitHub**
+- Gestion de version avec **Git & GitHub** 
 
 ## 🚀 Lancement du projet
 Ouvrir avec **Android Studio** → **Run ►**
